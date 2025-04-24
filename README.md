@@ -4,7 +4,7 @@ This is my personal portfolio website showcasing my skills, education, career go
 
 ## Live Demo
 
-🔗 [View Portfolio](https://digvijaynarayan.github.io/portfolio)  
+🔗 [View Portfolio]( https://digvijaynarayanpandey.github.io/Portfolio/)  
 
 
 ## 📁 Features
@@ -29,7 +29,7 @@ This is my personal portfolio website showcasing my skills, education, career go
 
 - [LinkedIn](https://www.linkedin.com/in/digvijaynarayan/)
 - [GitHub](https://github.com/DigvijayNarayanPandey)
-- 📧 digvijaynarayanpandey7@gmail.com
+- [Gmail](digvijaynarayanpandey7@gmail.com)
 
 ---
 
